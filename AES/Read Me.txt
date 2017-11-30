@@ -1,0 +1,27 @@
+AES Block Cipher
+CSC 541 - Project 4
+
+By:
+  Kevin Rau
+  Juan Leon
+  
+Files:
+  - AES.c
+  - Read Me.txt
+  - test_in.txt
+  
+How to execute:
+
+Compile AES.c on Linux
+
+  $ gcc AES.c
+  
+Run on Linux
+
+  $ ./a.out
+  
+  
+Descritpion:
+
+  This program encodes a file test_in.txt and subsequently decodes it in test_out.txt using teh AES-128 encryption scheme. The program gives the user an option to choose between a 128, 192, or 256 size key. See an example execution in test_out.txt.
+

@@ -1,0 +1,233 @@
+128 Bit Generated Key:
+53 36 fd 35 84 5a c1 82 84 c4 18 ee ea 31 e9 77 
+
+Plain text is
+Stopping by Woods on a Snowy Evening
+
+Cipher text after encryption:
+30 98 af 54 d1 30 57 5c 8e 74 55 47 b4 2b 38 1b 1b 54 29 aa f6 a1 10 ed 47 13 e2 86 53 4d 71 81 17 89 57 e4 2d 8d aa 9c d0 ae 12 f3 fd 18 c6 37 
+
+Cipher text after decryption:
+S t o p p i n g   b y   W o o d s   o n   a   S n o w y   E v e n i n g  
+ * * * * * * * * * * 
+
+Plain text is
+
+
+Cipher text after encryption:
+5d b3 80 20 7f 1b c5 88 11 31 51 9d 61 28 e1 37 
+
+Cipher text after decryption:
+ 
+ * * * * * * * * * * * * * * 
+
+Plain text is
+Whose woods these are I think I know,
+
+Cipher text after encryption:
+0c fe 0f 20 07 ac 2e 76 9c 26 52 22 5b ab 6f 25 8c da e8 89 32 2c 93 d8 2d ff 56 92 8c c1 c2 11 50 41 6b 4b eb 86 4f 0b af e8 57 5e 7c 43 d8 d7 
+
+Cipher text after decryption:
+W h o s e   w o o d s   t h e s e   a r e   I   t h i n k   I   k n o w ,  
+ * * * * * * * * * 
+
+Plain text is
+His house is in the village though.
+
+Cipher text after encryption:
+10 61 04 76 01 ec 9b 8e af 57 a3 59 e4 f6 2b b3 bc 0c 3c 23 1a 34 f2 8c b3 8d b3 f1 b1 4f 91 5e 7d 9e bd 56 47 68 92 b3 2f d1 bc d1 5b 30 16 13 
+
+Cipher text after decryption:
+H i s   h o u s e   i s   i n   t h e   v i l l a g e   t h o u g h .  
+ * * * * * * * * * * * 
+
+Plain text is
+He will not see me stopping here,
+
+Cipher text after encryption:
+86 19 97 c2 a5 84 ff c0 ea 19 a4 d3 34 3e 3b 5f 2b b2 9d 8f 91 2d 1a 06 97 e7 2e bb a0 e5 5b d8 c7 59 d8 ed b5 ec 74 c8 bf b1 89 89 75 25 d4 4a 
+
+Cipher text after decryption:
+H e   w i l l   n o t   s e e   m e   s t o p p i n g   h e r e ,  
+ * * * * * * * * * * * * * 
+
+Plain text is
+To watch his woods fill up with snow.
+
+Cipher text after encryption:
+3f 5e 20 c9 a9 9c 53 6e ec 58 a5 9a 73 48 45 8a fe 05 5a 2e 29 2f f8 cf c8 a4 c5 54 b0 75 ec 8e 12 f6 d8 5b b7 bc 3d d5 95 31 64 d0 95 26 ad 0c 
+
+Cipher text after decryption:
+T o   w a t c h   h i s   w o o d s   f i l l   u p   w i t h   s n o w .  
+ * * * * * * * * * 
+
+Plain text is
+
+
+Cipher text after encryption:
+5d b3 80 20 7f 1b c5 88 11 31 51 9d 61 28 e1 37 
+
+Cipher text after decryption:
+ 
+ * * * * * * * * * * * * * * 
+
+Plain text is
+My little horse must think it queer,
+
+Cipher text after encryption:
+a1 ea f0 eb 13 24 f8 44 b3 75 a7 72 32 9b f2 5c 1a 7a 17 46 e2 64 49 34 27 73 16 a7 49 c0 d7 4e c5 53 21 26 62 6b 1d b0 26 38 d2 85 52 0f 60 b7 
+
+Cipher text after decryption:
+M y   l i t t l e   h o r s e   m u s t   t h i n k   i t   q u e e r ,  
+ * * * * * * * * * * 
+
+Plain text is
+To stop without a farmhouse near,
+
+Cipher text after encryption:
+95 4d 37 bd 8d a4 d9 d5 e9 a7 d0 f6 13 60 34 23 05 92 e7 f5 39 f5 8f 81 cc f4 06 e3 15 33 4c 00 c7 59 d8 ed b5 ec 74 c8 bf b1 89 89 75 25 d4 4a 
+
+Cipher text after decryption:
+T o   s t o p   w i t h o u t   a   f a r m h o u s e   n e a r ,  
+ * * * * * * * * * * * * * 
+
+Plain text is
+Between the woods and frozen lake,
+
+Cipher text after encryption:
+96 30 ac 16 35 7f 46 d6 e9 01 f4 3a 1a 2d cf b5 a2 c4 9a 45 7a ce 0b ac 1e 9a 7c 81 78 14 8b ec 61 07 78 48 57 3f b1 d5 5b 85 15 3f b4 40 79 d3 
+
+Cipher text after decryption:
+B e t w e e n   t h e   w o o d s   a n d   f r o z e n   l a k e ,  
+ * * * * * * * * * * * * 
+
+Plain text is
+The darkest evening of the year.
+
+Cipher text after encryption:
+ac 76 3f 24 f9 83 83 c5 28 b2 ca 04 1e 7f 2c 76 62 66 33 56 32 cf 8c bb e2 16 b0 5e f1 a3 15 a2 5d b3 80 20 7f 1b c5 88 11 31 51 9d 61 28 e1 37 
+
+Cipher text after decryption:
+T h e   d a r k e s t   e v e n i n g   o f   t h e   y e a r .  
+ * * * * * * * * * * * * * * 
+
+Plain text is
+
+
+Cipher text after encryption:
+5d b3 80 20 7f 1b c5 88 11 31 51 9d 61 28 e1 37 
+
+Cipher text after decryption:
+ 
+ * * * * * * * * * * * * * * 
+
+Plain text is
+He gives his harness bells a shake,
+
+Cipher text after encryption:
+c5 c0 01 cf cf 2b cd 50 5b b5 64 b0 cf 19 44 54 89 c6 88 ac 95 9d d3 08 57 ca d2 b5 1b f6 54 c8 63 82 b6 37 37 6d 21 23 8b 29 3d e7 a5 d8 f2 5a 
+
+Cipher text after decryption:
+H e   g i v e s   h i s   h a r n e s s   b e l l s   a   s h a k e ,  
+ * * * * * * * * * * * 
+
+Plain text is
+To ask if there is some mistake.
+
+Cipher text after encryption:
+5d 65 ff ba ea c4 ef 34 27 a7 49 e9 e9 bc 46 65 72 be ab 56 a0 c6 bc 78 e5 25 a0 c6 47 ba f9 d2 5d b3 80 20 7f 1b c5 88 11 31 51 9d 61 28 e1 37 
+
+Cipher text after decryption:
+T o   a s k   i f   t h e r e   i s   s o m e   m i s t a k e .  
+ * * * * * * * * * * * * * * 
+
+Plain text is
+The only other sound's the sweep,
+
+Cipher text after encryption:
+7a 44 d5 9b 09 d2 7f d3 f9 88 ba 6a 3c 6b ca d8 1a e1 80 bb 82 2a 96 ab 2e 53 17 59 71 bc 2a cd c7 59 d8 ed b5 ec 74 c8 bf b1 89 89 75 25 d4 4a 
+
+Cipher text after decryption:
+T h e   o n l y   o t h e r   s o u n d ' s   t h e   s w e e p ,  
+ * * * * * * * * * * * * * 
+
+Plain text is
+Of easy wind and downy flake.
+
+Cipher text after encryption:
+48 6d 2d 6b 0a f9 bc 27 5b 6a 30 d7 1f 80 dd d8 b7 90 af fc 1f b3 a4 2e 72 0a 8d a7 d2 31 a8 91 
+
+Cipher text after decryption:
+O f   e a s y   w i n d   a n d   d o w n y   f l a k e .  
+ * 
+
+Plain text is
+
+
+Cipher text after encryption:
+5d b3 80 20 7f 1b c5 88 11 31 51 9d 61 28 e1 37 
+
+Cipher text after decryption:
+ 
+ * * * * * * * * * * * * * * 
+
+Plain text is
+The woods are lovely, dark and deep,
+
+Cipher text after encryption:
+81 0e f9 20 fe f2 6f fe 94 74 d0 14 2f 42 8c b2 01 ee 8c 9f 54 d8 55 09 d1 0e ce a3 f2 ca 18 23 06 c5 ee 6d f7 d7 41 74 e2 cc 02 98 07 55 65 d4 
+
+Cipher text after decryption:
+T h e   w o o d s   a r e   l o v e l y ,   d a r k   a n d   d e e p ,  
+ * * * * * * * * * * 
+
+Plain text is
+But I have promises to keep,
+
+Cipher text after encryption:
+90 6a 44 d5 28 00 1b 7d 5c 87 05 3b fa d0 12 4a fd 38 b7 d4 eb e7 ad f0 94 4b e5 66 fb 89 94 ac 
+
+Cipher text after decryption:
+B u t   I   h a v e   p r o m i s e s   t o   k e e p ,  
+ * * 
+
+Plain text is
+And miles to go before I sleep,
+
+Cipher text after encryption:
+dd a6 cd db de 27 19 ac 43 e2 75 fe 18 ed 15 ff 1a 83 00 cf 2b 67 ff d5 15 1f 1c cd 86 f5 f4 03 67 03 a7 a1 34 b8 49 ad 4a 0c e4 a0 5a 43 50 5f 
+
+Cipher text after decryption:
+A n d   m i l e s   t o   g o   b e f o r e   I   s l e e p ,  
+ * * * * * * * * * * * * * * * 
+
+Plain text is
+And miles to go before I sleep.
+
+Cipher text after encryption:
+dd a6 cd db de 27 19 ac 43 e2 75 fe 18 ed 15 ff a4 44 c6 a8 15 9a b7 c7 31 32 25 42 d1 11 c6 53 67 03 a7 a1 34 b8 49 ad 4a 0c e4 a0 5a 43 50 5f 
+
+Cipher text after decryption:
+A n d   m i l e s   t o   g o   b e f o r e   I   s l e e p .  
+ * * * * * * * * * * * * * * * 
+
+Plain text is
+
+
+Cipher text after encryption:
+5d b3 80 20 7f 1b c5 88 11 31 51 9d 61 28 e1 37 
+
+Cipher text after decryption:
+ 
+ * * * * * * * * * * * * * * 
+
+Plain text is
+         -- Robert Frost
+
+Cipher text after encryption:
+5c 87 ea 3e 09 50 75 ff 93 22 2b 9a fc 28 1d 3a 1c 0b 5d ab e3 dc 08 98 2d 43 92 ee 94 a5 e0 15 
+
+Cipher text after decryption:
+                  - -   R o b e r t   F r o s t  
+ * * * * * * 
+
